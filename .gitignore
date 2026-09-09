@@ -1,0 +1,13 @@
+# Local configuration and secrets
+.env
+*.env
+
+# Build outputs
+bin
+dist
+
+# Editors
+.idea
+*.iml
+*.ipr
+.vscode
